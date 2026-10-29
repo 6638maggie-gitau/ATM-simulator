@@ -33,7 +33,7 @@ def withdraw ():
         print("Withdrawl successfull")
         print("Your new balance is ksh", balance)
     else:
-        print("Insufficient balance")
+        print("Insufficient funds")
  
 
 def main():
